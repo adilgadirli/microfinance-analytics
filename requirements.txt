@@ -2,3 +2,4 @@ streamlit
 pandas
 plotly
 faker
+pytest==8.2.2
